@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "William James Yoro",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
+    "picture": "https://wyoro.github.io/images/FullSizeRender1",
+    "email": "wyoro@hawaii.edu",
     "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://wyoro.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
@@ -17,8 +17,8 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "wyoro",
+        "url": "http://github.com/wyoro"
       },
       {
         "network": "linkedin",
@@ -27,13 +27,13 @@
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "illywillyyy",
+        "url": "http://twitter.com/illywillyyy"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "will_yuhm",
+        "url": "http://instagram.com/will_yuhm"
       }
     ]
   },
