@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/SubwayPanic.jpg
 title: Script/Story Collaboration
 permalink: projects/micromouse
 date: 2015
