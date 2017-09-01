@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/SubwayPanic.jpg
+image: images/Subway.jpg
 title: Script/Story Collaboration
 permalink: projects/micromouse
 date: 2015
@@ -11,6 +11,9 @@ labels:
   - ACM
 summary: Collaborated with a group to create a story/script of our own to present as if it were to be the introduction to a movie/film that will be released as well as making a seperate rough draft of your own idea.
 ---
+<img class="ui medium right floated rounded image" src="../images/SubwayPanic.jpg">
+
+
 Title: Subway Panic
 
 Logline: An exhausted businessman takes the subway to go home, but when a teenage drummer boards the subway causing a disturbance, the businessman takes matters into his own hands.
@@ -28,6 +31,8 @@ Beginning: After working overtime, Bill is exhausted and just want to go home an
 Middle: Bill is getting really annoyed by Dave, so yells at Dave to stop making so much noise. Although,  Dave can’t hear Bill because he has earphone on. To grab Dave’s attention, Bill finds a piece of paper on the ground, crumbles it, and throws it at Dave. As Dave is still drumming on the pole, the paper ball bounces off Dave’s drumming stick and the paper ball hits Bill in the face. Bill looks around in search for something else to throw, he spots his briefcase. Bill looks through his briefcase, he finds a rubber band and takes it out. Bill aims the rubber band at Dave when all of a sudden the subway car stops causing Bill to flick the rubber band in his own eye.
 
 End: Bill has had enough, so he walks over to Dave. Before Bill could reach to Dave and say something, Dave gets up and leaves the subway car as he has reached his stop.
+
+<img class="ui medium left floated rounded image" src="../images/death.jpg">
 
 Title: Death Wish
 
