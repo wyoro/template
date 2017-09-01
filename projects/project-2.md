@@ -18,4 +18,4 @@ summary: A group project to making a music video and implementing your own part 
 Using Eclipse and coding in Java, the task was to make a music video and each group member was given a certain window of time in the song to implement any certain type of visual representation to go along with the song.
 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://github.com/wyoro/java-music-vid/blob/master/wyoro_Animator.java"><i class="large github icon"></i>MyMusicSourceCode</a>
