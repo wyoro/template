@@ -10,7 +10,7 @@ labels:
   - Music
   - Eclipse
 
-summary: A group project to making a music video and implementing your own part through timing of part a song using Eclipse.
+summary: A group project for making a music video and implementing your own part through timing of part a song using Eclipse.
 ---
 
 <img class="ui medium top floated rounded image" src="../images/zedd.jpg">
