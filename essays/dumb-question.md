@@ -36,4 +36,4 @@ But which is correct, or best? I gather that there are security and browser supp
 
 I know there's a similar question, What MIME type if JSON is being returned by a REST API?, but I'd like a slightly more targeted answer.
 ```
-This questions is very brief and easy to understand and as we look to the description of the what the user posted for the question they point out what they are trying to look for immediately with an example. Along with asking the question, the user goes farther and asks more directly for a specific answer by linking another question similar to his/her question but specifying what he/she is asking the user’s own question.
+This question is very brief and easy to understand and as we look to the description of the what the user posted for the question they point out what they are trying to look for immediately with an example. Along with asking the question, the user goes farther and asks more directly for a specific answer by providing a link to another question similar to his/her question by specifying what he/she is asking the user’s own question. With this, other people are able to easily answer directly to the question being ask.
