@@ -21,10 +21,18 @@ Searching on the website I quickly found some examples that compare a good and a
 
 ```
 Q: What is the correct JSON content type?
+
 I've been messing around with JSON for some time, just pushing it out as text and it hasn't hurt anybody (that I know of), but I'd like to start doing things properly.
+
 I have seen so many purported "standards" for the JSON content type:
-application/json application/x-javascript text/javascript text/x-javascript text/x-json
+application/json 
+application/x-javascript 
+text/javascript 
+text/x-javascript 
+text/x-json
+
 But which is correct, or best? I gather that there are security and browser support issues varying between them.
+
 I know there's a similar question, What MIME type if JSON is being returned by a REST API?, but I'd like a slightly more targeted answer.
 ```
 This questions is very brief and easy to understand and as we look to the description of the what the user posted for the question they point out what they are trying to look for immediately with an example. Along with asking the question, the user goes farther and asks more directly for a specific answer by linking another question similar to his/her question but specifying what he/she is asking the user’s own question.
