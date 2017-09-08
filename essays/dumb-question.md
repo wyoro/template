@@ -25,6 +25,7 @@ Q: What is the correct JSON content type?
 I've been messing around with JSON for some time, just pushing it out as text and it hasn't hurt anybody (that I know of), but I'd like to start doing things properly.
 
 I have seen so many purported "standards" for the JSON content type:
+
 application/json 
 application/x-javascript 
 text/javascript 
