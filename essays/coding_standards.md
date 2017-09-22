@@ -9,7 +9,6 @@ labels:
   - Coding
 ---
 
-## There's a standard for coding?
 
 ## There’s a standard for coding?
 
