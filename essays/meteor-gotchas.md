@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 
-##Searching for a Solution
+## Searching for a Solution
 
 With learning and understanding how to use Meteor, there are a lot of things that I came to see while using Meteor. One problem with Meteor that I have encountered, I haven't a real solution for it yet, but running Meteor on Windows was slow for me. In order to resolve this problem I tired varirous things to speed up the process of Meteor, such as decreassing the amount of proccess I was using on my laptop as well modifying my visuals on my laptop so that other things could run a lot smoother. And I've also tried setting the process of Meteor running to high priority on my laptop. All of things, I've tried to resolve this problem only helped a bit. The only solution that I found, if you call it one, was either use Meteor on my desktop(high-end) or use a MacBook that I've recently obtained. 
 
