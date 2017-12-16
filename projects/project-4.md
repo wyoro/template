@@ -14,7 +14,7 @@ labels:
 summary: A collaboritive group project to create a website app of our choosing and customization using Meteor.
 ---
 
-<img class="ui large floated rounded image" src="../images/mgaming.png">
+<img class="ui image" src="../images/mgaming.png">
 
 Using Meteor to build an application/website while coding in Javascript for functionality and CSS for customizing the look of the application. Another thing that was implemented to customizing the look of the application was Semantic UI.
 
