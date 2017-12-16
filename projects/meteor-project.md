@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/meteor.png
 title: Manoa Gaming 
-permalink: projects/music
+permalink: projects/meteor
 date: 2017
 labels:
   - Meteor
